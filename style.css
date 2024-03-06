@@ -1,0 +1,30 @@
+/* Alonzo, Jethro S. */
+/* Prompt A */
+
+body {
+    /* A background in hex value */
+    background-color: #1F1F1F;
+    
+    /* A font stack of three*/
+    font-family: "Madimi One", Arial, sans-serif;
+
+    margin: 3em;
+    overflow: hidden;
+}
+
+p {
+    /* A font size in pixels */
+    font-size: 25px;
+
+    /* A bolder font-weight */
+    font-weight: 500;
+
+    color: white;
+    line-height: 2;
+    text-align: center;
+}
+
+span {
+    /* An underline text-decoration */
+    text-decoration: underline #FA6900;
+}
